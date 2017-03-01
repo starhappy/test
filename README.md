@@ -1,2 +1,2 @@
-# sonymobile
-resource management
+# mytest
+swv resource management
